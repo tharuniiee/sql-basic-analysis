@@ -1,19 +1,27 @@
-# sql-basic-analysis
-Basic SQL analysis on a sales dataset
+## SQL Sales Analysis
+
 ## Project Overview
-This project uses SQL to analyze a simple sales dataset and answer basic business questions.
+This project analyzes a simple sales dataset using SQL to answer basic business questions related to revenue and sales trends.
 
 ## Dataset
-Sales data containing order details such as product, quantity, price, and date.
+The dataset contains order-level sales data with the following fields:
+- order_id
+- order_date
+- product
+- category
+- quantity
+- price
 
 ## Tools Used
 - SQL
 
-## Questions Answered
-- Total revenue
-- Top-selling products
-- Monthly sales trend
+## Analysis Performed
+- Calculated total revenue
+- Analyzed revenue by product
+- Analyzed revenue by category
+- Identified monthly sales trends
 
 ## Key Insights
-- Identified highest revenue products
-- Observed sales patterns over time
+- Electronics generated the highest revenue
+- A few products contributed most of the total sales
+- Sales varied across different months
