@@ -1,0 +1,11 @@
+order_id,order_date,product,category,quantity,price
+1,2024-01-05,Laptop,Electronics,1,55000
+2,2024-01-06,Mouse,Electronics,2,500
+3,2024-01-07,Keyboard,Electronics,1,1500
+4,2024-01-10,Headphones,Electronics,1,3000
+5,2024-02-02,Chair,Furniture,1,7000
+6,2024-02-05,Desk,Furniture,1,12000
+7,2024-02-10,Notebook,Stationery,5,100
+8,2024-03-01,Pen,Stationery,10,20
+9,2024-03-05,Monitor,Electronics,1,18000
+10,2024-03-12,Printer,Electronics,1,9000
